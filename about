@@ -1,0 +1,15 @@
+Attendance Management System
+This is a comprehensive Attendance Management System built using Java Swing for the frontend and MySQL for the backend. Developed in NetBeans IDE, this system allows efficient tracking of student or employee attendance. The user interface is designed with Java Swing, providing an intuitive and interactive experience, while MySQL serves as the database to securely store and manage attendance records.
+
+Key Features:
+
+Add, update, and delete attendance records.
+View and filter attendance reports.
+Manage user accounts (e.g., Admin, Student/Employee).
+Real-time data syncing with MySQL database.
+User-friendly graphical interface built with Java Swing.
+Technologies Used:
+
+Frontend: Java Swing
+Backend: MySQL
+Development Environment: NetBeans
